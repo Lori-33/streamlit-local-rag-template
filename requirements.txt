@@ -1,0 +1,6 @@
+streamlit>=1.30,<2
+numpy>=1.24,<3
+requests>=2.31,<3
+pdfplumber>=0.11,<1
+PyPDF2>=3,<4
+python-pptx>=0.6.23,<2

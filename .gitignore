@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.runtime/
+.env
+
+# Streamlit / cache
+.streamlit/secrets.toml
+.cache/
+*.log
+
+# Private documents
+docs_private/
+private_docs/
+private_objections/
+
+# Generated vector stores
+vector_store/*
+!vector_store/.gitkeep
+*.pkl
+*.faiss
+*.index
+
+# Documents that may contain private data
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# Local models
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Local notes / internal plans
+*_PLAN_*.md
+*internal*.md
+*private*.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
