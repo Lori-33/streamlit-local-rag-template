@@ -4,6 +4,20 @@ A local-first Streamlit template for document question answering, objection hand
 
 This repository is a sanitized template. It does not include private documents, model files, vector indexes, API keys, or local runtime folders.
 
+## License And Attribution
+
+This project is shared for noncommercial use only.
+
+You may use, copy, modify, and share this project for learning, research, or other noncommercial purposes. Commercial use is not permitted without prior written permission from the copyright holder.
+
+If you use, copy, modify, or share this project, please retain the license notice and clearly credit the original project:
+
+```text
+Original project: https://github.com/Lori-33/streamlit-local-rag-template
+Author: Lori-33
+License: PolyForm Noncommercial License 1.0.0
+```
+
 ## Features
 
 - Local document loading for Markdown, TXT, PDF, and PPTX files
